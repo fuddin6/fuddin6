@@ -53,7 +53,7 @@
     <text x="42" y="125" class="title">Muhamad Nur Saifuddin</text>
     <text x="42" y="148" font-size="15" font-weight="600" fill="var(--accent)">UI/UX Designer • Web Developer • IT Support</text>
     <text x="42" y="180" class="subtitle">Membangun antarmuka intuitif &amp; sistem web terstruktur</text>
-    <text x="42" y="202" class="subtitle">dengan arsitektur MVC dan fokus pada User Experience_</text>
+    <text x="42" y="202" class="subtitle">dengan arsitektur MVC dan fokus pada User Experience_ </text>
     <rect x="375" y="190" width="2.5" height="14" class="cursor"/>
 
     <rect x="515" y="50" width="265" height="210" class="card"/>
