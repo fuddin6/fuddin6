@@ -1,16 +1,22 @@
-## Hi there 👋
+# ⚡ Welcome to my Dev Space
 
-<!--
-**fuddin6/fuddin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!-- Memanggil SVG Bento Grid yang telah di-upload -->
+  <img src="./profile-card.svg" alt="Saifuddin Bento Profile" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuddin6&show_icons=true&theme=transparent" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuddin6&layout=compact&theme=transparent" alt="Top Langs" width="48%" />
+</div>
+
+---
+
+### 🤝 Mari Berkolaborasi!
+- 🌐 Kunjungi portofolio saya di [saifuddin.mnsaifuddin68.workers.dev](https://saifuddin.mnsaifuddin68.workers.dev/) 
+- 💼 Hubungi saya via [LinkedIn](https://www.linkedin.com/in/muhamad-nur-saifuddin) 
+- 📸 Intip karya desain saya di [Instagram (@fuddinofficial)](https://instagram.com/fuddinofficial)
