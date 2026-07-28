@@ -50,6 +50,7 @@
     <text x="50" y="195" class="subtitle">Fokus pada estetika, logika, dan performa web</text>
     <rect x="372" y="182" width="3" height="15" class="cursor" />
 
+    
     <!-- BENTO BOX 2: Tech Stack (Kanan Atas) -->
     <rect x="500" y="55" width="280" height="180" class="card"/>
     <text x="530" y="95" font-size="16" font-weight="700">Tech &amp; Skills</text>
